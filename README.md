@@ -28,7 +28,7 @@ Pueden usarse los elementos del mismo paquete y desde cualquier clase que extien
 
 Solo pueden ser accedidos desde la misma clase en la que se encuentran.
 
-#CamelCase
+# CamelCase
 
 ### 1)¿Qué es CamelCase?, y ejemplos.
 
@@ -39,11 +39,11 @@ Un conjunto de reglas o convenciones para facilitar la lectura de codigo (a los 
 En una sola linea, las iniciales de las palabras que unimos son en mayusculas y el resto de cada palabra ira en minusculas.
 Esto sirve para las clases. como:
 
-default class EstoEsUnEjemplo;
+- default class EstoEsUnEjemplo;
 
-protected class AccesoAMetodo;
+- protected class AccesoAMetodo;
 
-private class TestDeCodigo;
+- private class TestDeCodigo;
 
 ### 3) ¿Qué es CamelCase Lower?, y ejemplos. (camelCase)
 
@@ -52,9 +52,9 @@ Sirve para metodos y variables.
 
 #### Metodo:
 
-– Math.**sqrt**()
+- Math.**sqrt**()
 
-Character.**isDigit**()
+- Character.**isDigit**()
 
 
 #### Variable:
