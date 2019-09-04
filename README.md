@@ -59,4 +59,6 @@ Sirve para metodos y variables.
 
 #### Variable:
 
-int valorInicial = 0;
+- int **valorInicial** = 0;
+
+- String **nombreDelPadre** = "John Doe";
