@@ -13,10 +13,17 @@ Se definen metodos exclusivos para una clase y se puede ocultar codigo para evit
 
 ### 3) ¿Cuándo se pueden usar y dónde?
 - public
+
 Se puede acceder desde cualquier clase, pertenezca o no al paquete en el que se encuentra el elemento.
+
 - default
+
 Si no se elige ningun modificador, solo se podra acceder a clases que estan dentro del mismo paquete.
+
 - protected
+
 Pueden usarse los elementos del mismo paquete y desde cualquier clase que extienda la clase en que se encuentra.
+
 - private
+
 Solo pueden ser accedidos desde la misma clase en la que se encuentran.
